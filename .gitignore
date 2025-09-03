@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset Files - DO NOT UPLOAD
+# The dataset is too large for GitHub
+data/
+
+# Saved Models
+# Optional: You can choose to upload small models, but it's often better
+# to describe how to generate them in the README.
+models/*.h5
+
+# Output files
+outputs/
