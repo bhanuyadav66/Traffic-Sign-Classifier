@@ -91,6 +91,9 @@ The model was trained for 30 epochs with data augmentation, achieving the follow
 -   **Validation Loss**: ~0.014
 
 The training process demonstrated the model's ability to learn distinguishing features effectively, although testing revealed challenges in differentiating visually similar signs—a common problem in image classification that highlights the importance of robust data augmentation.
+Few classification outputs:
+<img width="1119" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e7a5a4c-1167-47dd-8023-68424adda4c3" />
+
 
 ## Future Improvements
 
