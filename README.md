@@ -93,6 +93,8 @@ The model was trained for 30 epochs with data augmentation, achieving the follow
 The training process demonstrated the model's ability to learn distinguishing features effectively, although testing revealed challenges in differentiating visually similar signs—a common problem in image classification that highlights the importance of robust data augmentation.
 Few classification outputs:
 <img width="1119" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e7a5a4c-1167-47dd-8023-68424adda4c3" />
+<img width="1125" height="1010" alt="Screenshot 2025-10-04 113057" src="https://github.com/user-attachments/assets/49bd5b2c-62f4-4808-bdf6-c20c38912788" />
+
 
 
 ## Future Improvements
